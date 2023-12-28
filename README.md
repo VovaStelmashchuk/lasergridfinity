@@ -11,3 +11,5 @@ The repository contains DXF files for the followings sizes
 - 1x4
 - 2x2
 - 2x3
+
+The all models creating for thickness 4mm 
