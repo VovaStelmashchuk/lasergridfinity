@@ -5,7 +5,9 @@ The project contains the DXF files make gridfinity boxes for lazer cutting
 ![sample](sample.jpeg)
 
 
-### The thingiverse page [here](https://www.thingiverse.com/thing:6406163)
+### Downoload open scad file [here](https://www.printables.com/model/767412-laser-gridfinity)
+
+The thingiverse page [here](https://www.thingiverse.com/thing:6406163)
 The model supports customization by change D unit and W unit counts.
 
 
